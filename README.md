@@ -1,3 +1,9 @@
+<div align="center">
+
+<a href="https://github.com/amiin-dev/typescript-eslint"><img src="./assets/readme-banner.svg" alt="typescript-eslint — animated banner" width="100%"></a>
+
+</div>
+
 <h1 align="center">typescript-eslint</h1>
 
 <p align="center">Monorepo for typescript-eslint: powerful static analysis for JavaScript and TypeScript</p>
@@ -8,13 +14,6 @@
     <a href="https://www.npmjs.com/package/@typescript-eslint/typescript-estree"><img src="https://img.shields.io/npm/dm/@typescript-eslint/typescript-estree.svg?style=flat-square" alt="NPM Downloads" /></a>
     <a href="https://codecov.io/gh/typescript-eslint/typescript-eslint"><img alt="Codecov" src="https://img.shields.io/codecov/c/github/typescript-eslint/typescript-eslint.svg?style=flat-square"></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/amiin-dev/typescript-eslint"><img src="https://img.shields.io/badge/GitHub-typescript-eslint-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository"></a>
-  <img src="https://img.shields.io/badge/README-✨%20polished-7C3AED?style=for-the-badge&logo=markdown&logoColor=white" alt="Polished README">
-  <img src="https://img.shields.io/badge/Maintained-by%20Amiin-0B2545?style=for-the-badge&logo=github&logoColor=white" alt="Maintained by Amiin">
-</p>
-
 <!-- markdownlint-disable MD033 -->
 <p align="center">
 👇
